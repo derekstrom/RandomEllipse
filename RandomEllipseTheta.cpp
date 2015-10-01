@@ -1,5 +1,5 @@
 /*********************************************************************************/ 
-/* File:   RandomEllipseTheta.cpp                                                      */
+/* File:   RandomEllipseTheta.cpp                                                */
 /* Author: Derek Strom                                                           */
 /* Date:   9/30/2015                                                             */
 /* Type:   C++ File                                                              */
